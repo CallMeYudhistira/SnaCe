@@ -168,11 +168,11 @@ The codebase follows a modular design with clear separation of concerns:
 - [ ] Add sound effects (terminal bell or platform audio)
 - [ ] Add a scoreboard with player names
 - [ ] Improve rendering with double-buffering to reduce flicker
-- [ ] Add unit tests for game logic
+- [ ] Add unit tests for game logic -->
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details. -->
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
