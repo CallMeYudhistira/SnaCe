@@ -1,3 +1,1 @@
-# project-LTIK
-2603120 YUDHISTIRA RPL 1C - Belajar Github - LTIK
-print("tes fork dari zian")
+# SnaCe - Snake Game Built in C
