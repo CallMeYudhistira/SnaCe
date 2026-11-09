@@ -1,2 +1,27 @@
-.vscode
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+build/
+*.o
+*.exe
+snace
+
+# Game data (high score is user-specific)
+data/highscore.dat
+
+# Project prompt (development notes)
 PROMPT.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# OS files
+.DS_Store
+Thumbs.db
